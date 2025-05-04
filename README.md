@@ -1,5 +1,6 @@
 # **Mohram Ali**
-📞 +92 301 3258801 | ✉️ mohrammahar36@gmail.com  
+📞 +92 301 3258801 | ✉️ mohrammahar36@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohramali)
+
 
 ## **Career Objective**  
 Aspiring software engineer with a strong foundation in programming, web development, IoT, and machine learning. Passionate about acquiring new skills and applying technical knowledge to real-world challenges. Seeking an internship opportunity to refine expertise, contribute effectively, and grow in a dynamic professional environment.  
